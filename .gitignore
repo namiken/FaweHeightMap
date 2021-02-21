@@ -1,26 +1,18 @@
-# Windows thumbnail cache files
-Thumbs.db
-ehthumbs.db
-ehthumbs_vista.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-## ide
-.idea/*
-
-# =========================
-# Operating System Files
-# =========================
+spigot-1.8.jar
+/bin/
+/.classpath
+/.project
+.settings/
+.idea/.name
+.idea/libraries/Spigot.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+THE-LoW.iml
+/target/
+.idea/
+*.iml
+out/
+/target/
+.sts4-cache/classpath-data.json
